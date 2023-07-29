@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GymWorkOut</string>
+    <string-array name="weekly_training_days">
+        <item>4 Days</item>
+        <item>5 Days</item>
+        <item>6 Days</item>
+        <item>7 Days</item>
+    </string-array>
+    <string-array name="days_of_week">
+        <item>Every Sunday</item>
+        <item>Every Monday</item>
+        <item>Every Tuesday</item>
+        <item>Every Wednesday</item>
+        <item>Every Thursday</item>
+        <item>Every Friday</item>
+        <item>Every Saturday</item>
+    </string-array>
+
+</resources>
